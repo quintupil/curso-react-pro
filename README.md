@@ -1,4 +1,4 @@
-# curso-react-pro
+# curso-react-pro lleva tus bases a otro nivel
 
 ## Ejercicio: 01-Bases
 
